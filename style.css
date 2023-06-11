@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.navbar{
+    background-color: black;
+}
+
+img{
+    height: 300px;
+    border: 4px solid white;
+}
